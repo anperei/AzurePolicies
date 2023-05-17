@@ -1,4 +1,4 @@
-# Useful Azure Policies
+# Azure Policy custom samples
 
 In this repo, you can find some custom Azure Policy definitions I've built to govern Azure environments and enforce certain behaviors. 
 
